@@ -89,7 +89,7 @@ export default function Home() {
             <img className="avatar" src="/Stoian.jpg" alt="avatar" />
             <h3 className="card-name">Stoqn</h3>
             <p>
-            "Random rap pesen za klimatici" ili ne znam
+            &quot;Random rap pesen za klimatici&quot; ili ne znam
             </p>
           </div>
           <div className="card">
