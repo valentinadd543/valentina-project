@@ -15,7 +15,7 @@ export default function Home() {
           <h2 className="section-title">2Pac</h2>
           <p>
            The perfect combination of cute and charming. 
-            2PAC steals audience's hearts from an early age
+            2PAC steals audience&apos;s hearts from an early age
              and enchants with his strong lyrics and association with
               social problems affected in the surrounding society.
 
