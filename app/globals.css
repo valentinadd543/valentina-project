@@ -58,12 +58,12 @@ footer {
 }
 
 .cover {
-  background-image: url('/intro-background.jpg');
+  background-image: url('/download.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
-  min-height: 500px;
-  padding: 20px;
+  background-position: bottom;
+  min-height: 1000px;
+  padding:40px;
   text-align: right;
 }
 
